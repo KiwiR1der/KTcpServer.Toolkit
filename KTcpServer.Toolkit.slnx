@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TcpServer.Toolkit.Core/KTcpServer.Toolkit.Core.csproj" />
+  <Project Path="TcpServer.Toolkit.Models/KTcpServer.Toolkit.Models.csproj" />
+  <Project Path="TcpServer.Toolkit.ViewModels/TcpServer.Toolkit.ViewModels.csproj" />
+  <Project Path="TcpServer.Toolkit/KTcpServer.Toolkit.csproj" />
+</Solution>
